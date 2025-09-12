@@ -8,4 +8,4 @@ py -m pip install tkinter3d
 
 Unix&MAC:
 
-py -m pip install tkinter3d
+python3 -m pip install tkinter3d
